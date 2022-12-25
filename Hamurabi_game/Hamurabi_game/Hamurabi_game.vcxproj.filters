@@ -21,9 +21,6 @@
     <ClCompile Include="God.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="City.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="InputHandler.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>

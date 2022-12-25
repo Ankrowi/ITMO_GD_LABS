@@ -130,7 +130,6 @@
     <ClCompile Include="FileSystem.cpp" />
     <ClCompile Include="Hamurabi_game.cpp" />
     <ClCompile Include="God.cpp" />
-    <ClCompile Include="City.cpp" />
     <ClCompile Include="InputHandler.cpp" />
     <ClCompile Include="OutputHandler.cpp" />
   </ItemGroup>

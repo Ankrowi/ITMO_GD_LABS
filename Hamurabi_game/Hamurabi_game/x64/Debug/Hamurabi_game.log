@@ -1,7 +1,9 @@
-﻿  Hamurabi_game.cpp
-C:\Users\andre\source\repos\Hamurabi_game\Hamurabi_game\Hamurabi_game.cpp(104,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-C:\Users\andre\source\repos\Hamurabi_game\Hamurabi_game\Hamurabi_game.cpp(131,46): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+﻿  FileSystem.cpp
+  Hamurabi_game.cpp
+C:\Users\andre\source\repos\ITMO_GD_LABS\Hamurabi_game\Hamurabi_game\Hamurabi_game.cpp(104,21): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\andre\source\repos\ITMO_GD_LABS\Hamurabi_game\Hamurabi_game\Hamurabi_game.cpp(131,46): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  God.cpp
   InputHandler.cpp
   OutputHandler.cpp
   Создание кода...
-  Hamurabi_game.vcxproj -> C:\Users\andre\source\repos\Hamurabi_game\x64\Debug\Hamurabi_game.exe
+  Hamurabi_game.vcxproj -> C:\Users\andre\source\repos\ITMO_GD_LABS\Hamurabi_game\x64\Debug\Hamurabi_game.exe
