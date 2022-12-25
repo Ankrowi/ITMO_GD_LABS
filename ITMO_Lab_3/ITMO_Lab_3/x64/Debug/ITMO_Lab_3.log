@@ -1,0 +1,28 @@
+﻿  ITMO_Lab_3.cpp
+C:\Users\andre\source\repos\ITMO_Lab_3\ITMO_Lab_3\ITMO_Lab_3.cpp(76,24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\ITMO_Lab_3\ITMO_Lab_3\ITMO_Lab_3.cpp(104,26): warning C4244: аргумент: преобразование "double" в "const _Rep", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\andre\source\repos\ITMO_Lab_3\ITMO_Lab_3\ITMO_Lab_3.cpp(105,26): warning C4244: аргумент: преобразование "double" в "const _Rep", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(50,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(45,1): message : во время компиляции функции-члена класс шаблон "int Array<int>::insert(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\andre\source\repos\ITMO_Lab_3\ITMO_Lab_3\ITMO_Lab_3.cpp(86,38): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Array<int>::insert(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\andre\source\repos\ITMO_Lab_3\ITMO_Lab_3\ITMO_Lab_3.cpp(84,43): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<int>"
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(156,26): warning C4244: *=: преобразование "const float" в "size_t", возможна потеря данных
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(152,1): message : во время компиляции функции-члена класс шаблон "void Array<int>::realoc(void)"
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(47,25): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Array<int>::realoc(void)"
+  ITMO_Lab_3.vcxproj -> C:\Users\andre\source\repos\ITMO_Lab_3\x64\Debug\ITMO_Lab_3.exe

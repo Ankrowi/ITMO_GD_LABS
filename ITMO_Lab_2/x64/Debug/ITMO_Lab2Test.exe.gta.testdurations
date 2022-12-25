@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\andre\source\repos\ITMO_Lab_2\x64\Debug\ITMO_Lab2Test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="ArrayTest.DefaultConstructor" Duration="1" />
+    <TestDuration Test="ArrayTest.CapacityConstructor" Duration="1" />
+    <TestDuration Test="ArrayTest.CopyConstructor" Duration="1" />
+    <TestDuration Test="ArrayTest.MoveConstructor" Duration="1" />
+    <TestDuration Test="ArrayTest.InsertMany" Duration="1" />
+    <TestDuration Test="ArrayTest.InsertToEnd" Duration="1" />
+    <TestDuration Test="ArrayTest.InsertToMiddle" Duration="1" />
+    <TestDuration Test="ArrayTest.RemoveAtBegin" Duration="1" />
+    <TestDuration Test="ArrayTest.RemoveAtMiddle" Duration="1" />
+    <TestDuration Test="ArrayTest.RemoveAtEnd" Duration="1" />
+    <TestDuration Test="ArrayTest.Iterator" Duration="1" />
+    <TestDuration Test="ArrayTest.ReverseIterator" Duration="1" />
+    <TestDuration Test="StringArrayTest.DefaultConstructor" Duration="1" />
+    <TestDuration Test="StringArrayTest.CapacityConstructor" Duration="1" />
+    <TestDuration Test="StringArrayTest.CopyConstructor" Duration="1" />
+    <TestDuration Test="StringArrayTest.MoveConstructor" Duration="1" />
+    <TestDuration Test="StringArrayTest.Assignment" Duration="1" />
+    <TestDuration Test="StringArrayTest.SelfAssignment" Duration="1" />
+    <TestDuration Test="StringArrayTest.InsertMany" Duration="1" />
+    <TestDuration Test="StringArrayTest.InsertToEnd" Duration="1" />
+    <TestDuration Test="StringArrayTest.InsertToMiddle" Duration="1" />
+    <TestDuration Test="StringArrayTest.RemoveAtBegin" Duration="1" />
+    <TestDuration Test="StringArrayTest.RemoveAtMiddle" Duration="1" />
+    <TestDuration Test="StringArrayTest.RemoveAtEnd" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

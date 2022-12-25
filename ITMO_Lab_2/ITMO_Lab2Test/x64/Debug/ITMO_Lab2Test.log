@@ -1,0 +1,34 @@
+﻿  test.cpp
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(83,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(82,1): message : во время компиляции функции-члена класс шаблон "int Array<std::string>::capacity(void) const"
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab2Test\test.cpp(162,5): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Array<std::string>::capacity(void) const"
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab2Test\test.cpp(160,24): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<std::string>"
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(80,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(79,1): message : во время компиляции функции-члена класс шаблон "int Array<std::string>::size(void) const"
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab2Test\test.cpp(161,5): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Array<std::string>::size(void) const"
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(62,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(52,1): message : во время компиляции функции-члена класс шаблон "int Array<std::string>::insert(int,const T &)"
+          with
+          [
+              T=std::string
+          ]
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab2Test\test.cpp(263,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Array<std::string>::insert(int,const T &)"
+          with
+          [
+              T=std::string
+          ]
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(50,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(45,1): message : во время компиляции функции-члена класс шаблон "int Array<std::string>::insert(const T &)"
+          with
+          [
+              T=std::string
+          ]
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab2Test\test.cpp(176,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Array<std::string>::insert(const T &)"
+          with
+          [
+              T=std::string
+          ]
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(156,26): warning C4244: *=: преобразование "const float" в "size_t", возможна потеря данных
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(152,1): message : во время компиляции функции-члена класс шаблон "void Array<std::string>::realoc(void)"
+C:\Users\andre\source\repos\ITMO_Lab_2\ITMO_Lab_2\Array.h(55,25): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Array<std::string>::realoc(void)"
+  ITMO_Lab2Test.vcxproj -> C:\Users\andre\source\repos\ITMO_Lab_2\x64\Debug\ITMO_Lab2Test.exe

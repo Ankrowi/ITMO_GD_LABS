@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\andre\source\repos\ITMO_Lab_3\x64\Debug\ITMO_Lab_3Test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="SortTest.StringSortingAscending" Duration="1" />
+    <TestDuration Test="SortTest.IntSortingAscending" Duration="1" />
+    <TestDuration Test="SortTest.FiveIntSortingAscending" Duration="1" />
+    <TestDuration Test="SortTest.HundredIntSortingAscending" Duration="1" />
+    <TestDuration Test="SortTest.HundredIntSortingDescending" Duration="1" />
+    <TestDuration Test="SortTest.FiveFloatSortingAscending" Duration="1" />
+    <TestDuration Test="SortTest.HundredFloatSortingAscending" Duration="1" />
+    <TestDuration Test="SortTest.HundredFloatSortingDescending" Duration="1" />
+    <TestDuration Test="SortTest.HundredFloatInArraySortingAscending" Duration="1" />
+    <TestDuration Test="SortTest.HundredStructInArraySortingAscending" Duration="1" />
+    <TestDuration Test="SortTest.NullSortingThrow" Duration="1" />
+    <TestDuration Test="SortTest.EmptyArraySortingSameBegin" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

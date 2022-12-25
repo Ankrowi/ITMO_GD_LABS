@@ -1,0 +1,6 @@
+﻿  CoalesceAllocator.cpp
+C:\Users\andre\source\repos\ITMO_Lab_4\ITMO_Lab_4\CoalesceAllocator.cpp(122,98): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andre\source\repos\ITMO_Lab_4\ITMO_Lab_4\CoalesceAllocator.cpp(145,47): warning C4018: <: несоответствие типов со знаком и без знака
+  FixedSizeAllocator.cpp
+  Создание кода...
+  ITMO_Lab_4.vcxproj -> C:\Users\andre\source\repos\ITMO_Lab_4\x64\Debug\ITMO_Lab_4.exe
